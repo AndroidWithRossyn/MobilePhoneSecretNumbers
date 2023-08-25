@@ -1,0 +1,3410 @@
+[
+  {
+    "ID": 1,
+    "code": "*#0*#",
+    "codeDesc": "General Test Mode",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 2,
+    "code": "*#06#",
+    "codeDesc": "Display IMEI number",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 3,
+    "code": "*#1234#",
+    "codeDesc": "Display firmware version",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 4,
+    "code": "*#2222#",
+    "codeDesc": "Display hardware version",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 5,
+    "code": "*2767*3855#",
+    "codeDesc": "Reset: delete all data and reset all settings",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 6,
+    "code": "*#03#",
+    "codeDesc": "nandflashheaderread",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 7,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "code will show you diagnostic and general settings mode",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 8,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "Factory Soft reset ",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 9,
+    "code": "*2767*4387264636#",
+    "codeDesc": "display the product code",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 10,
+    "code": "*#9090#",
+    "codeDesc": "Diagnostic Configuration /RAM Dump",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 11,
+    "code": "*#0673#",
+    "codeDesc": "Audio Test Mode",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 12,
+    "code": "*#872564#",
+    "codeDesc": "USB Logging Control",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 13,
+    "code": "*#2663#",
+    "codeDesc": "TSP or TSK firmware update",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 14,
+    "code": "*#07#",
+    "codeDesc": "Test History",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 15,
+    "code": "*#8736364#",
+    "codeDesc": "OTA Update Menu",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 16,
+    "code": "*#7465625#",
+    "codeDesc": "Phone Lock Status",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 17,
+    "code": "#0111*0000000#",
+    "codeDesc": "SIM Unlock",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 18,
+    "code": "#7465625*28746#",
+    "codeDesc": "turning on Auto SIM Lock",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 19,
+    "code": "*7465625*782*#",
+    "codeDesc": "Configure Network Lock NSP",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 20,
+    "code": "*7465625*27*#",
+    "codeDesc": "Inserting Network Lock KeyCode NSP or CP",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 21,
+    "code": "#7465625*782*#",
+    "codeDesc": "Inserting Partition Network Lock Keycode",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 22,
+    "code": "*7465625*77*#",
+    "codeDesc": "Inserting Network Lock Keycode SP",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 23,
+    "code": "*7465625*638*#",
+    "codeDesc": "Configuring Network Lock MCC or MNC",
+    "brand": "Samsung",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 24,
+    "code": "*#61#",
+    "codeDesc": "Check redirection status",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 25,
+    "code": "##002#",
+    "codeDesc": "Cancel all redirections",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 26,
+    "code": "*43#",
+    "codeDesc": "activate call waiting",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 27,
+    "code": "*#06#",
+    "codeDesc": "Display IMEI number",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 28,
+    "code": "*#987#",
+    "codeDesc": "Enter into Factory Mode",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 29,
+    "code": "*#987*99#",
+    "codeDesc": "Restore Factory Settings",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 30,
+    "code": "*#900#",
+    "codeDesc": "Check Software Version",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 31,
+    "code": "1122",
+    "codeDesc": "Default User Codes",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 32,
+    "code": "*#369#",
+    "codeDesc": "Change LCD Contrast",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 33,
+    "code": "*#110*01#",
+    "codeDesc": "To Enable COM Port",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 34,
+    "code": "*#002#",
+    "codeDesc": "FULL FACTORY RESET",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 35,
+    "code": "*#87#",
+    "codeDesc": "Phone Test",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 36,
+    "code": "*#06#",
+    "codeDesc": "show IMEI of phone",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 37,
+    "code": "*#8375#",
+    "codeDesc": "Software/Hardware Info",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 38,
+    "code": "*#3641#",
+    "codeDesc": " Engineer mode. If you are changing hidden settings",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 39,
+    "code": "*#3696#",
+    "codeDesc": "Firmware USB update mode",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 40,
+    "code": "####1111#",
+    "codeDesc": "screen colors",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 41,
+    "code": "####11#",
+    "codeDesc": "Network time sychronization",
+    "brand": "Lenovo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 42,
+    "code": "*#06# ",
+    "codeDesc": "Checks IMEI number",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 43,
+    "code": "*#0*#",
+    "codeDesc": "Service menu (Available on newer phones)",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 44,
+    "code": "*#*#232339#*#*",
+    "codeDesc": "Wireless LAN tests",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 45,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "Backlight/vibration test",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 46,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "Display phone information, battery & history usage statistics",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 47,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "Reset phone factory data reset",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 48,
+    "code": "*2767*3855#",
+    "codeDesc": "Format device to factory reset",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 49,
+    "code": "*#*#273282*255*663282*#*#*",
+    "codeDesc": "Backup of all media files",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 50,
+    "code": "*#*#197328640#*#*",
+    "codeDesc": "Enable test mode for service",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 51,
+    "code": "*#9090#",
+    "codeDesc": "Diagnostic configuration",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 52,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "Test the touchscreen",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 53,
+    "code": "*#7465625#",
+    "codeDesc": "View phone lock status",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 54,
+    "code": "*#9900#",
+    "codeDesc": "System dump mode",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 55,
+    "code": "*#*#1111#*#*",
+    "codeDesc": "FTA SW Version",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 56,
+    "code": "*#*#2222#*#*",
+    "codeDesc": "FTA HW Version",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 57,
+    "code": "*#301279#",
+    "codeDesc": "HSDPA/HSUPA Control",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 58,
+    "code": "*#872564#",
+    "codeDesc": "USB logging control Menu",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 59,
+    "code": "##7764726",
+    "codeDesc": "Hidden service menu (Motorola Droid)",
+    "brand": "Motorola",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 60,
+    "code": "*#06# ",
+    "codeDesc": "Checks IMEI number",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 61,
+    "code": "*#07#",
+    "codeDesc": "IMEI and SW (LG 510)",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 62,
+    "code": "*8375#",
+    "codeDesc": "Software version (LG B1200)",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 63,
+    "code": "*6861#",
+    "codeDesc": "Recount cheksum (LG B1200)",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 64,
+    "code": "1945#*5101# ",
+    "codeDesc": "Simlock menu (LG B1200)",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 65,
+    "code": "2945#*5101#",
+    "codeDesc": "Simlock menu (LG 510W, 5200)",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 66,
+    "code": "2945#*70001#",
+    "codeDesc": "Simlock menu (LG 7020, 7010)",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 67,
+    "code": "2947#*",
+    "codeDesc": "Simlock menu (LG 500, 600)",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 68,
+    "code": "637664#*#",
+    "codeDesc": "Test Menu 8330",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 69,
+    "code": "49857465454#",
+    "codeDesc": "Test Menu 8180 V10a",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 70,
+    "code": "492662464663#",
+    "codeDesc": "Test Menu 8180 V11a",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 71,
+    "code": "47328545454#",
+    "codeDesc": "STest Menu 8130-8138",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 72,
+    "code": "277634#*#",
+    "codeDesc": "Test Menu 8110-8120",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 73,
+    "code": "##2342",
+    "codeDesc": "Apply to resets the set advanced settings",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 74,
+    "code": "##786",
+    "codeDesc": "Used to reset the mobile memory and life timer",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 75,
+    "code": "##889",
+    "codeDesc": "To Enable the TTY",
+    "brand": "LG",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 76,
+    "code": "*#06#",
+    "codeDesc": "Checks IMEI number",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 77,
+    "code": "*#6776#",
+    "codeDesc": "Phone Software Information",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 78,
+    "code": "*#99#",
+    "codeDesc": "Screen Light Long Bright",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 79,
+    "code": "*#808#",
+    "codeDesc": "Manual Hardware Test",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 80,
+    "code": "*#805#",
+    "codeDesc": "Bluetooth Test Menu",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 81,
+    "code": "*#809#",
+    "codeDesc": "Echo Test Menu",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 82,
+    "code": "*#803#",
+    "codeDesc": "WiFi Test Menu",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 83,
+    "code": "*#888#",
+    "codeDesc": "Hardware Revision",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 84,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "tests backlight/ vibration",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 85,
+    "code": "*#*#46*#*#",
+    "codeDesc": "It reset SIM in OPPO F1s",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 86,
+    "code": "*#0*#",
+    "codeDesc": "It shows service menu",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 87,
+    "code": "*#*#232339#*#*",
+    "codeDesc": "It tests wireless LAN",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 88,
+    "code": "*#*#1111#*#*",
+    "codeDesc": "It shows FTA SW version",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 89,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "It displays phone information and history statistics",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 90,
+    "code": "*#*#197328640#*#",
+    "codeDesc": "It enables test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 91,
+    "code": "*#*#273282*255*663282*#*#*",
+    "codeDesc": "It is used for immediate backup of all media files",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 92,
+    "code": "*#9090#",
+    "codeDesc": "It is used for diagnostic configuration",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 93,
+    "code": "*#7465625#",
+    "codeDesc": "It is used to check phone’s lock status",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 94,
+    "code": "*#*#2222#*#*",
+    "codeDesc": "used for FTA HW version",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 95,
+    "code": "*#301279#",
+    "codeDesc": "control HSDPA/HSUPA",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 96,
+    "code": "*#872564#",
+    "codeDesc": "control USB logging menu",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 97,
+    "code": "*#*#7594#*#*",
+    "codeDesc": "change end call/ power options",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 98,
+    "code": "*#*#225#*#*",
+    "codeDesc": "It is used for Event Calendar",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 99,
+    "code": "*7465625*28638#",
+    "codeDesc": "It used to set auto Network lock On/Off",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 100,
+    "code": "*#*#426#*#*",
+    "codeDesc": "It debugs for Google Olay service",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 101,
+    "code": "*#34971539#",
+    "codeDesc": "It is used to update camera firmware",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 102,
+    "code": "*7465625*28746#",
+    "codeDesc": "It used to set auto SIM to lock On/Off",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 103,
+    "code": "*#804#",
+    "codeDesc": "automatic disconnect test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 104,
+    "code": "*#800#",
+    "codeDesc": "Enter Engineering mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 105,
+    "code": "*#805#",
+    "codeDesc": "engineering Bluetooth test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 106,
+    "code": " *#801#",
+    "codeDesc": "Enter switch test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 107,
+    "code": " *#808#",
+    "codeDesc": " Enter manual engineering test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 108,
+    "code": "*#809#",
+    "codeDesc": "Enter Engineering echo test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 109,
+    "code": " *#888#",
+    "codeDesc": "view hardware Pcb versions",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 110,
+    "code": "*#802#",
+    "codeDesc": "Enter automatically engineering TTFF GPS test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 111,
+    "code": "*#803#",
+    "codeDesc": "Enter Engineering networks test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 112,
+    "code": "*#806#",
+    "codeDesc": "engineering aging test mode",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 113,
+    "code": "*#6776#",
+    "codeDesc": "machine info",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 114,
+    "code": "*#1234#",
+    "codeDesc": "view software details",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 115,
+    "code": "*#36446337#",
+    "codeDesc": "test function introduction",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 116,
+    "code": "*#99#",
+    "codeDesc": "screen light long bright",
+    "brand": "Oppo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 117,
+    "code": "*#*#3424#*#*",
+    "codeDesc": "HTC function test Program",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 118,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "HTC Info menu",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 119,
+    "code": "*#*#8255#*#*",
+    "codeDesc": "launching GTalk Service Monitor",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 120,
+    "code": "##3424#",
+    "codeDesc": "Diagnostic mode",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 121,
+    "code": "##3282#",
+    "codeDesc": "for EPST",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 122,
+    "code": "##8626337#",
+    "codeDesc": "for VOCODER",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 123,
+    "code": "##33284#",
+    "codeDesc": "Field trial menu",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 124,
+    "code": "##786#",
+    "codeDesc": "Reverse Logistics Support",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 125,
+    "code": "##7738#",
+    "codeDesc": "Protocol Revision",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 126,
+    "code": "##775#",
+    "codeDesc": "Unknown",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 127,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "Testing menu",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 128,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "Restore factory settings",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 129,
+    "code": "*#*#34971539#*#*",
+    "codeDesc": "Camera information",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 130,
+    "code": "*#*#1472365#*#*",
+    "codeDesc": "Short GPS test",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 131,
+    "code": "*#*#197328640#*#*",
+    "codeDesc": "Service activity test mod",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 132,
+    "code": "*#*#232338#*#*",
+    "codeDesc": "Wi-Fi Mac address",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 133,
+    "code": "*#*#0842#*#* ",
+    "codeDesc": "Vibration and backlight test",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 134,
+    "code": "*#*#2663#*#*",
+    "codeDesc": "Check touch screen version ",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 135,
+    "code": "*#*#0*#*#* ",
+    "codeDesc": "LCD test",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 136,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "Touch screen test",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 137,
+    "code": "*#*#0588#*#* ",
+    "codeDesc": "Proximity sensor test",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 138,
+    "code": "*#*#3264#*#*",
+    "codeDesc": "RAM information",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 139,
+    "code": "*#*#232331#*#*",
+    "codeDesc": "Bluetooth test",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 140,
+    "code": "*#*#8351#*#*",
+    "codeDesc": "Enables voice dialling logging mode",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 141,
+    "code": "*#*#8350#*#*",
+    "codeDesc": "Disables voice dialling logging mode ",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 142,
+    "code": "*#*#7780#*#* ",
+    "codeDesc": "Reinstall the firmware",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 143,
+    "code": "*#7284#",
+    "codeDesc": "USB 12C mode control",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 144,
+    "code": "*#872564#",
+    "codeDesc": "USB logging control",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 145,
+    "code": "*#746# ",
+    "codeDesc": "Debug dump menu",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 146,
+    "code": "*#9900#",
+    "codeDesc": "System dump mode",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 147,
+    "code": "**05***#",
+    "codeDesc": "Execute from Emergency dial screen to unlock PUK code",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 148,
+    "code": "#*#4636#*#*",
+    "codeDesc": "Device information program",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 149,
+    "code": "*#*#7262626#*#*",
+    "codeDesc": "Field tes",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 150,
+    "code": "*#*#3424#*#*",
+    "codeDesc": "HTC function test program",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 151,
+    "code": "*#*#1111#*#*",
+    "codeDesc": "Display software information",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 152,
+    "code": "*#*#2222#*#*",
+    "codeDesc": "Display hardware version",
+    "brand": "Htc",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 153,
+    "code": "*#06#",
+    "codeDesc": "IMEI number",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 154,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "Phone Information",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 155,
+    "code": "*#0*#",
+    "codeDesc": "Testing mode",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 156,
+    "code": "*#0011#",
+    "codeDesc": "Show to network mode/cell info/power info hidden menu",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 157,
+    "code": "*#4636#",
+    "codeDesc": "Show to battery and other general settings like GSM/CDMA",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 158,
+    "code": "*#8255#",
+    "codeDesc": "For G talk service monitor",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 159,
+    "code": "*#7780#",
+    "codeDesc": "For factory data reset",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 160,
+    "code": "*#34971539#",
+    "codeDesc": "For information about phone camera",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 161,
+    "code": "*#7594#",
+    "codeDesc": "Change the power button action in your phone",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 162,
+    "code": "*#197328640#",
+    "codeDesc": "Service mode",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 163,
+    "code": "*#1234#",
+    "codeDesc": "Display phones current firmware",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 164,
+    "code": "*#1472365#",
+    "codeDesc": "Gps test(work on 2.2)",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 165,
+    "code": "*#7465625#",
+    "codeDesc": "engineering mode",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 166,
+    "code": "*#3214789650#",
+    "codeDesc": "Gps service menu",
+    "brand": "BlackBerry",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 167,
+    "code": "*#06#",
+    "codeDesc": "show Emei Number",
+    "brand": "Karbonn",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 168,
+    "code": "*#110*01#",
+    "codeDesc": "show Enter into Engineering Mode",
+    "brand": "Karbonn",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 169,
+    "code": "*#987#",
+    "codeDesc": "show Enter into factory Mode",
+    "brand": "Karbonn",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 170,
+    "code": "*#987*99#",
+    "codeDesc": "show Restore Factory Settings",
+    "brand": "Karbonn",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 171,
+    "code": "*#900#",
+    "codeDesc": "how Check Software Version",
+    "brand": "Karbonn",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 172,
+    "code": "*#800#",
+    "codeDesc": "Check Software Version",
+    "brand": "Karbonn",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 173,
+    "code": "*#369# ",
+    "codeDesc": "Change LCD Contrast",
+    "brand": "Karbonn",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 174,
+    "code": "*#06#",
+    "codeDesc": "checking IMEI",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 175,
+    "code": "*#7780#",
+    "codeDesc": "Reset to factory settings",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 176,
+    "code": "*#67705646#",
+    "codeDesc": "This will clear the LCD display",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 177,
+    "code": "*#0000#",
+    "codeDesc": "Used to view software version",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 178,
+    "code": "*#2820#",
+    "codeDesc": "Bluetooth device address",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 179,
+    "code": "*#4720#",
+    "codeDesc": "Half Rate Codec activation",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 180,
+    "code": "*#4720*",
+    "codeDesc": "Half Rate Codec deactivation",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 181,
+    "code": "*#7370#",
+    "codeDesc": "Restore the phone to factory default settings",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 182,
+    "code": "#*#2820#",
+    "codeDesc": "Show Bluetooth MAC address",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 183,
+    "code": "#*#62209526#",
+    "codeDesc": "Show Wireless LAN MAC address",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 184,
+    "code": "*3370#",
+    "codeDesc": "Enhanced Full Rate Codec (EFR) activation",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 185,
+    "code": "#3370#",
+    "codeDesc": "Enhanced Full Rate Codec (EFR) deactivation",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 186,
+    "code": "*#2640#",
+    "codeDesc": "Displays security code in US",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 187,
+    "code": "*#30#",
+    "codeDesc": "Lets you see the private number",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 188,
+    "code": "*#43#",
+    "codeDesc": "Allows you to check the “Call Waiting” status of your phone.",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 189,
+    "code": "*#61#",
+    "codeDesc": "Allows you to check the number that “On No Reply” calls are diverted to",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 190,
+    "code": "*#62#",
+    "codeDesc": "Allows you to check the number that “Divert If Unreachable (no service)” calls are diverted to",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 191,
+    "code": "*#67#",
+    "codeDesc": "Allows you to check the number that “On Busy Calls” are diverted to",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 192,
+    "code": "*#67705646#",
+    "codeDesc": "Removes operator logo on 3310 & 3330",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 193,
+    "code": "*#73#",
+    "codeDesc": "Reset phone timers and game scores",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 194,
+    "code": "*#746025625#",
+    "codeDesc": "Displays the SIM Clock status",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 195,
+    "code": "*#7760#",
+    "codeDesc": "Manufactures code",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 196,
+    "code": "*#7780#",
+    "codeDesc": "Restore factory settings.",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 197,
+    "code": "*#8110#",
+    "codeDesc": "Software version for the Nokia 8110",
+    "brand": "Nokia",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 198,
+    "code": "*#110*01#",
+    "codeDesc": "Engineer mode",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 199,
+    "code": "*#987#",
+    "codeDesc": "Factory mode",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 200,
+    "code": "*#110*01#",
+    "codeDesc": "Enable COM port",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 201,
+    "code": " *#987*99#",
+    "codeDesc": "Restore factory settings",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 202,
+    "code": "*#369#",
+    "codeDesc": "LCD contrast",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 203,
+    "code": "*#800#",
+    "codeDesc": "software version",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 204,
+    "code": "*#900#",
+    "codeDesc": "Software version",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 205,
+    "code": "*#06#",
+    "codeDesc": "show Emei Number",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 206,
+    "code": "*#2634#",
+    "codeDesc": "Send For Unlock GPRS Settings",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 207,
+    "code": "*73738#",
+    "codeDesc": "Send For Reset the Hardware parts",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 208,
+    "code": "*#4960#",
+    "codeDesc": "Send to view Information about Mobile",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 209,
+    "code": "*#8140#",
+    "codeDesc": "Send Used for NET lock",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 210,
+    "code": "*#1110#",
+    "codeDesc": "Send For Special NET lock",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 211,
+    "code": "*#0000#",
+    "codeDesc": "Set Default Language",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 212,
+    "code": "*#007#",
+    "codeDesc": "Set language to Ruaaion",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 213,
+    "code": "*#0033#",
+    "codeDesc": "Set Language to French",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 214,
+    "code": "*#0034#",
+    "codeDesc": "Set Language to Spanish",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 215,
+    "code": "*#0039#",
+    "codeDesc": "Set Language to Italian",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 216,
+    "code": "*#0044#",
+    "codeDesc": "Set Language to English",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 217,
+    "code": "*#0049#",
+    "codeDesc": "Set Language to German",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 218,
+    "code": "*#0066#",
+    "codeDesc": "Set Language to Thai",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 219,
+    "code": "*#0084#",
+    "codeDesc": "Set Language to Vietnamese",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 220,
+    "code": "*#0966#",
+    "codeDesc": "Set Language to Arabic",
+    "brand": "China",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 221,
+    "code": "*#06# ",
+    "codeDesc": "IMEI number",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 222,
+    "code": "*#*#273282*255*663282*#*#*",
+    "codeDesc": "Immediate backup of all media files ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 223,
+    "code": "*#*#34971539#*#*",
+    "codeDesc": "get information about phone camera",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 224,
+    "code": "*2767*3855#",
+    "codeDesc": "factory format",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 225,
+    "code": "*#*#7594#*#* ",
+    "codeDesc": "change the \"End Call / Power\" button action",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 226,
+    "code": "*#*#225#*#*",
+    "codeDesc": "Events calendar",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 227,
+    "code": "*#872564#",
+    "codeDesc": "USB logging control",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 228,
+    "code": "*#9900#",
+    "codeDesc": "System dump mode",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 229,
+    "code": "*#*#97#*#*",
+    "codeDesc": "Language and Keyboard settings ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 230,
+    "code": "*#*#46*#*#",
+    "codeDesc": "Reset Sim ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 231,
+    "code": "*#301279#",
+    "codeDesc": "HSDPA means High Speed Downlink Packet Access",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 232,
+    "code": "*#7465625#",
+    "codeDesc": "View phone lock status",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 233,
+    "code": "*#*#1472365#*#*",
+    "codeDesc": "GPS ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 234,
+    "code": "*#*#232331#*#*",
+    "codeDesc": "Bluetooth test ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 235,
+    "code": "*#12580*369#",
+    "codeDesc": " Software and hardware info",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 236,
+    "code": "*#9090#",
+    "codeDesc": "Diagnostic configuration ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 237,
+    "code": "*#*#2222#*#*",
+    "codeDesc": "FTA HW Version",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 238,
+    "code": "*#*#0283#*#*",
+    "codeDesc": "Packet Loopback ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 239,
+    "code": "*#*#0*#*#* ",
+    "codeDesc": " LCD display test",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 240,
+    "code": "*#*#0673#*#*",
+    "codeDesc": "Melody test ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 241,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "Device test (Vibration test and BackLight test)",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 242,
+    "code": "*#*#2663#*#*",
+    "codeDesc": "Touch screen version",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 243,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "Touch screen test",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 244,
+    "code": "*#*#0588#*#*",
+    "codeDesc": "Proximity sensor test",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 245,
+    "code": "*#*#3264#*#*",
+    "codeDesc": "RAM version ",
+    "brand": "OnePlus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 246,
+    "code": "*#06#",
+    "codeDesc": "IMEI number",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 247,
+    "code": "*#*#273282*255*663282*#*#*",
+    "codeDesc": "Immediate backup of all media files",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 248,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "information about Vivo V1 and battery",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 249,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "factory data reset",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 250,
+    "code": "*#*#34971539#*#*",
+    "codeDesc": "get information about phone camera",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 251,
+    "code": "*2767*3855#",
+    "codeDesc": " factory format",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 252,
+    "code": "*#*#7594#*#*",
+    "codeDesc": "change the \"End Call / Power\" button action in your phone",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 253,
+    "code": "*#*#225#*#*",
+    "codeDesc": "Events calendar.",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 254,
+    "code": "*#*#759#*#*",
+    "codeDesc": "Access Google Partner setup (Rlz debug interface)",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 255,
+    "code": "*#872564#",
+    "codeDesc": "USB logging control",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 256,
+    "code": "*#9900#",
+    "codeDesc": "System dump mode Vivo V1",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 257,
+    "code": "*#*#97#*#*",
+    "codeDesc": "Language and Keyboard settings in Vivo V1",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 258,
+    "code": "*#*#46*#*#",
+    "codeDesc": "Reset Sim in Vivo V1",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 259,
+    "code": "*#7465625#",
+    "codeDesc": "View phone lock status ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 260,
+    "code": "*7465625*638*",
+    "codeDesc": "Enables Network lock ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 261,
+    "code": "#7465625*638*Code#",
+    "codeDesc": "Disables Network lock ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 262,
+    "code": "*7465625*782*",
+    "codeDesc": "Enables Subset lock",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 263,
+    "code": "*7465625*228#",
+    "codeDesc": "Activa lock ON",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 264,
+    "code": "#7465625*228#",
+    "codeDesc": "Activa lock OFF ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 265,
+    "code": "*7465625*28638#",
+    "codeDesc": "Auto Network lock ON ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 266,
+    "code": "#7465625*28638#",
+    "codeDesc": "Auto Network lock OFF",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 267,
+    "code": "*7465625*28782#",
+    "codeDesc": "Auto subset lock ON ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 268,
+    "code": "#7465625*28782#",
+    "codeDesc": "Auto subset lock OFF",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 269,
+    "code": "*7465625*2877#",
+    "codeDesc": "Auto SP lock ON ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 270,
+    "code": "#7465625*2877#",
+    "codeDesc": "Auto SP lock OFF ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 271,
+    "code": "*7465625*2827#",
+    "codeDesc": "Auto CP lock ON ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 272,
+    "code": "#7465625*2827#",
+    "codeDesc": "Auto CP lock OFF ",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 273,
+    "code": "*7465625*28746#",
+    "codeDesc": "Auto SIM lock ON",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 274,
+    "code": "#7465625*28746#",
+    "codeDesc": "Auto SIM lock OFF",
+    "brand": "Vivo",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 275,
+    "code": "*#06#",
+    "codeDesc": "Display's IMEI number",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 276,
+    "code": "*2767*3855#",
+    "codeDesc": "This code will Format your device to factory state (will delete everything on a phone)",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 277,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "Display's Phone information, usage statistics and battery",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 278,
+    "code": "*#*#273282*255*663282*#*#*",
+    "codeDesc": "This code will Immediately the backup of all media files",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 279,
+    "code": "*#*#197328640#*#*",
+    "codeDesc": "This code will Enable test mode for the service",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 280,
+    "code": "*#*#1111#*#*",
+    "codeDesc": "Will display FTA software version",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 281,
+    "code": "*#*#1234#*#*",
+    "codeDesc": "Will show PDA and firmware version",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 282,
+    "code": "*#*#232339#*#*",
+    "codeDesc": "Wireless LAN tests.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 283,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "This code is used  for Backlight/vibration test.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 284,
+    "code": "*#12580*369#",
+    "codeDesc": "Display's Software and hardware info.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 285,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "This code is used for Testing the touchscreen.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 286,
+    "code": "*#9900#",
+    "codeDesc": "System dump mode.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 287,
+    "code": "*#9090#",
+    "codeDesc": "Diagnostic configuration",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 288,
+    "code": "*#*#34971539#*#*",
+    "codeDesc": "Will display Detailed camera information",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 289,
+    "code": "*#872564#",
+    "codeDesc": "USB logging control",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 290,
+    "code": "*#301279#",
+    "codeDesc": "HSDPA/HSUPA Control Menu.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 291,
+    "code": "*#7465625#",
+    "codeDesc": "This code will display phone's lock status.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 292,
+    "code": "*#0*#",
+    "codeDesc": "Enter the service menu on newer phones like Galaxy S III.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 293,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "Reset the /data partition to factory state.",
+    "brand": "Mi",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 294,
+    "code": "*#06#",
+    "codeDesc": "IMEI number",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 295,
+    "code": "*#*#273282*255*663282*#*#*",
+    "codeDesc": " Immediate backup of all media files-Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 296,
+    "code": "*#*#4636#*#* ",
+    "codeDesc": "information about Asus ZenFone Max and battery",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 297,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "factory data reset",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 298,
+    "code": "*#*#34971539#*#*",
+    "codeDesc": "information about phone camera-Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 299,
+    "code": "*#*#7594#*#*",
+    "codeDesc": "change the \"End Call / Power\" button action in your phone-Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 300,
+    "code": "*#*#225#*#*",
+    "codeDesc": "Events calendar.",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 301,
+    "code": "*#*#426#*#*",
+    "codeDesc": "Debug information for Google Play service",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 302,
+    "code": "*#*#759#*#*",
+    "codeDesc": "Access Google Partner setup (Rlz debug interface)",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 303,
+    "code": "*#872564#",
+    "codeDesc": "USB logging control",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 304,
+    "code": "*#9900#",
+    "codeDesc": "System dump mode Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 305,
+    "code": "*#*#97#*#*",
+    "codeDesc": "Language and Keyboard settings in Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 306,
+    "code": "*#*#46*#*#",
+    "codeDesc": "Reset Sim in Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 307,
+    "code": "*#7465625#",
+    "codeDesc": "View phone lock status ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 308,
+    "code": "*7465625*228#",
+    "codeDesc": "Activa lock ON",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 309,
+    "code": "#7465625*228#",
+    "codeDesc": "Activa lock OFF",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 310,
+    "code": "*7465625*28638#",
+    "codeDesc": "Auto Network lock ON ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 311,
+    "code": "#7465625*28638#",
+    "codeDesc": "Auto Network lock OFF ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 312,
+    "code": "*7465625*28782#",
+    "codeDesc": "Auto subset lock ON ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 313,
+    "code": "#7465625*28782#",
+    "codeDesc": "Auto subset lock OFF ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 314,
+    "code": "*7465625*2877#",
+    "codeDesc": "Auto SP lock ON ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 315,
+    "code": "#7465625*2877#",
+    "codeDesc": "Auto SP lock OFF ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 316,
+    "code": "*7465625*2827#",
+    "codeDesc": "Auto CP lock ON ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 317,
+    "code": "#7465625*2827#",
+    "codeDesc": "Auto CP lock OFF ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 318,
+    "code": "*7465625*28746#",
+    "codeDesc": "Auto SIM lock ON",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 319,
+    "code": "#7465625*28746#",
+    "codeDesc": "Auto SIM lock OFF ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 320,
+    "code": "*#*#232338#*#* ",
+    "codeDesc": "Shows WiFi MAC address",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 321,
+    "code": "*#*#1472365#*#*",
+    "codeDesc": "GPS test",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 322,
+    "code": "*#*#1575#*#*",
+    "codeDesc": "For a more advanced GPS test ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 323,
+    "code": "*#*#232331#*#*",
+    "codeDesc": " Bluetooth test",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 324,
+    "code": "*#*#232337#*#",
+    "codeDesc": "Shows Bluetooth device address in Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 325,
+    "code": "*#*#8255#*#*",
+    "codeDesc": "This code can be used to launch GTalk Service Monitor.",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 326,
+    "code": "*#*#36245#*#*",
+    "codeDesc": "Access email debug information",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 327,
+    "code": "*#12580*369#",
+    "codeDesc": "Software and hardware info",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 328,
+    "code": "*#9090#",
+    "codeDesc": "Diagnostic configuration in Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 329,
+    "code": "*#*#2222#*#*",
+    "codeDesc": "FTA HW Version ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 330,
+    "code": "*#*#0283#*#*",
+    "codeDesc": " Packet Loopback ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 331,
+    "code": "*#*#0*#*#*",
+    "codeDesc": "LCD display test ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 332,
+    "code": "*#*#0673#*#* ",
+    "codeDesc": "Melody test ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 333,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "Device test (Vibration test and BackLight test) ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 334,
+    "code": "*#*#2663#*#* ",
+    "codeDesc": "Touch screen version Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 335,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "Touch screen test ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 336,
+    "code": "*#*#0588#*#*",
+    "codeDesc": " Proximity sensor test ",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 337,
+    "code": "*#*#3264#*#*",
+    "codeDesc": "RAM version Asus ZenFone Max",
+    "brand": "Asus",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 338,
+    "code": "*#06#",
+    "codeDesc": "IMEI Number",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 339,
+    "code": "*#*#1357946#*#*",
+    "codeDesc": "For EMUI version, Serial no, Product ID",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 340,
+    "code": "*#*#2846579#*#*",
+    "codeDesc": "For Background Settings, Veneer information, Network Information Query, Software Upgrade, Restore Factory and Battery Charge information",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 341,
+    "code": "*#*#6130#*#*",
+    "codeDesc": "For Phone information, Usage statitics and Wireless Information",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 342,
+    "code": "*#*#2846#*#*",
+    "codeDesc": "MMI Audio Simple test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 343,
+    "code": "*#2846#",
+    "codeDesc": "MMI Manu Normal test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 344,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "Phone Information, Usage and Battery",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 345,
+    "code": "*#12580*369#",
+    "codeDesc": "Complete Software and Hardware Info",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 346,
+    "code": "*#9090#",
+    "codeDesc": "Diagnostic Configuration",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 347,
+    "code": "*#872564#",
+    "codeDesc": " USB Logging Control",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 348,
+    "code": "*#9900#",
+    "codeDesc": "System Dump Mode",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 349,
+    "code": "*#301279# ",
+    "codeDesc": "HSDPA/HSUPA Control Menu",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 350,
+    "code": "*#7465625#",
+    "codeDesc": "View Phone Lock Status",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 351,
+    "code": "*#0*#",
+    "codeDesc": "Enter Service Menu",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 352,
+    "code": "*#*#34971539#*#*",
+    "codeDesc": "Detailed Camera Information",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 353,
+    "code": "*#*#273282*255*663282*#*#*",
+    "codeDesc": "Backup All Media Files",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 354,
+    "code": "*#*#232339#*#*",
+    "codeDesc": "Wireless LAN Test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 355,
+    "code": "*#*#197328640#*#*",
+    "codeDesc": "Enable Test Mode for Service",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 356,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "Back-light Test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 357,
+    "code": "*#*#2664#*#*",
+    "codeDesc": " Test the Touchscreen",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 358,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "Vibration Test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 359,
+    "code": "*#*#1111#*#*",
+    "codeDesc": " FTA Software Version",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 360,
+    "code": "*#*#232338#*#*",
+    "codeDesc": "Shows WiFi MAC address",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 361,
+    "code": "*#*#1472365#*#*",
+    "codeDesc": "GPS test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 362,
+    "code": "*#*#232331#*#*",
+    "codeDesc": " Bluetooth test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 363,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "Touch screen test",
+    "brand": "Huawei",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 364,
+    "code": "*#06#",
+    "codeDesc": "IMEI Number",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 365,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "Android Device Touch-Screen test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 366,
+    "code": "*#*#0289#*#*",
+    "codeDesc": "Device Audio test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 367,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "Display information about Android Phone, Battery and Usage statistics",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 368,
+    "code": "*#*#3264#*#*",
+    "codeDesc": "Android Device Ram version",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 369,
+    "code": "*#*#232338#*#*",
+    "codeDesc": "Displays Wi-Fi Mac-address",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 370,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "Reset Android device. Erase all your device data like photos, apps, and settings, etc.",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 371,
+    "code": "*#*#64663#*#*",
+    "codeDesc": "QC Test (All tests)",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 372,
+    "code": "*#*#1472365#*#*",
+    "codeDesc": " Quick GPS Test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 373,
+    "code": "*#*#1575#*#*",
+    "codeDesc": "A Different Type GPS Test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 374,
+    "code": "*#*#0*#*#*",
+    "codeDesc": " Android Device LCD display test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 375,
+    "code": "*#*#0842#*#*",
+    "codeDesc": "Vibration and Backlight test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 376,
+    "code": "*#*#2664#*#*",
+    "codeDesc": "Android Device Touch-Screen test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 377,
+    "code": "*#*#0588#*#*",
+    "codeDesc": "Proximity sensor test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 378,
+    "code": "*#*#7262626#*#*",
+    "codeDesc": "Device Field test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 379,
+    "code": "*#*#232339#*#*",
+    "codeDesc": "Device Wireless Lan Test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 380,
+    "code": "*#*#526#*#*",
+    "codeDesc": "Device Wireless Lan Test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 381,
+    "code": "*#*#0289#*#*",
+    "codeDesc": "Device Audio test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 382,
+    "code": "*#*#0673#*#*",
+    "codeDesc": "Device Audio test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 383,
+    "code": "*#*#232331#*#*",
+    "codeDesc": "Device Bluetooth test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 384,
+    "code": "*#*#0283#*#*",
+    "codeDesc": " Packet Loopback test",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 385,
+    "code": "*#*#273283*255*663282*#*#*",
+    "codeDesc": "For a quick backup to all your media files",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 386,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "Display information about Android Phone, Battery and Usage statistics",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 387,
+    "code": "*#*#34971539#*#*",
+    "codeDesc": "Shows complete information about the Device camera",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 388,
+    "code": "*#*#2663#*#*",
+    "codeDesc": "The displays touch-screen version of Android device",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 389,
+    "code": "*#*#3264#*#*",
+    "codeDesc": " Android Device Ram version*#06# Displays IMEI number",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 390,
+    "code": "*#*#232337#*#",
+    "codeDesc": "Displays Bluetooth device address",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 391,
+    "code": "*#*#232338#*#*",
+    "codeDesc": "Displays Wi-Fi Mac-address",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 392,
+    "code": "*#*#1234#*#*",
+    "codeDesc": "PDA and Device firmware info",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 393,
+    "code": "*#*#1111#*#*",
+    "codeDesc": "FTA Software version",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 394,
+    "code": "*#*#2222#*#*",
+    "codeDesc": " FTA Hardware version",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 395,
+    "code": "*#*#44336#*#*",
+    "codeDesc": "Displays Build time and change list number",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 396,
+    "code": "*#*#7780#*#*",
+    "codeDesc": "Reset Android device. Erase all your device data like photos, apps, and settings, etc.",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 397,
+    "code": "*2767*3855#",
+    "codeDesc": "It will also Format all your device data and reinstall Android Device firmware",
+    "brand": "Realme",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 398,
+    "code": "*#*#4636#*#*",
+    "codeDesc": "testing menu Xperia E1",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 399,
+    "code": "*#*#7378423#*#*",
+    "codeDesc": "Service Menu",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 400,
+    "code": "*#7465625#",
+    "codeDesc": "View phone lock status",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 401,
+    "code": "*#*#232338#*#*",
+    "codeDesc": "Shows WiFi MAC address",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 402,
+    "code": "*#*#1575#*#*",
+    "codeDesc": "For a more advanced GPS test ",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 403,
+    "code": "*#*#232331#*#*",
+    "codeDesc": "Bluetooth test",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 404,
+    "code": "*#*#232337#*#",
+    "codeDesc": "Shows Bluetooth device address in Sony Xperia S",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 405,
+    "code": "*#*#8255#*#*",
+    "codeDesc": "This code can be used to launch GTalk Service Monitor.",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 406,
+    "code": "*#*#36245#*#*",
+    "codeDesc": "Access email debug information",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 407,
+    "code": "#*#*0842#*#*",
+    "codeDesc": "Device test (Vibration, and Backlight test)",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 408,
+    "code": "#*#*82663#*#*",
+    "codeDesc": "Touch screen version",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 409,
+    "code": "#*#*2664#*#*",
+    "codeDesc": "Touch screen test",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 410,
+    "code": "#*#*0588#*#*",
+    "codeDesc": "Proximity sensor test",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 411,
+    "code": "*#*#8255#*#*",
+    "codeDesc": "Launch gTalk Service Monitor",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 412,
+    "code": "#*#*1234#*#*",
+    "codeDesc": "PDA and Phone",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 413,
+    "code": "#*#*1111#*#*",
+    "codeDesc": "FTA SW Version",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 414,
+    "code": "#*#*2222#*#*",
+    "codeDesc": "FTA HW Version",
+    "brand": "Sony",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 415,
+    "code": "*67",
+    "codeDesc": "Hide Caller ID",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 416,
+    "code": "*225#",
+    "codeDesc": "Check Postpaid Cellular Balance",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 417,
+    "code": "*777#",
+    "codeDesc": "Check Prepaid Cellular Balance",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 418,
+    "code": "*43#",
+    "codeDesc": "Enable Call Waiting Status",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 419,
+    "code": "#43#",
+    "codeDesc": "Disable Call Waiting Status",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 420,
+    "code": "*#06#",
+    "codeDesc": "Check Your iPhone's IMEI number",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 421,
+    "code": "#61#",
+    "codeDesc": "Check Missed Calls",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 422,
+    "code": "*#07#",
+    "codeDesc": "Check Legal and Regulatory Details",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 423,
+    "code": "*#30#",
+    "codeDesc": "Check Call Line Presentation",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 424,
+    "code": "*3001#12345#*",
+    "codeDesc": "Check Your iPhone's Signal",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 425,
+    "code": "*5005*25371#",
+    "codeDesc": "Check whether the alert system is working or not",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  },
+  {
+    "ID": 426,
+    "code": "*5005*25370#",
+    "codeDesc": "To disable the alert system",
+    "brand": "Apple",
+    "brandID": 0,
+    "isFavourite": 0
+  }
+]

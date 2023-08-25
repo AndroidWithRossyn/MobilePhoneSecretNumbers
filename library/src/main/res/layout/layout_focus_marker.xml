@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:id="@+id/focusContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:background="@android:color/darker_gray">
+
+        <LinearLayout
+            android:layout_margin="12dp"
+            android:id="@+id/focusLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/focusImg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_focus"/>
+
+            <cn.zhengshang.widget.AEsun
+                android:id="@+id/aeSun"
+                android:layout_width="wrap_content"
+                android:layout_height="120dp"/>
+        </LinearLayout>
+    </FrameLayout>
+
+</merge>

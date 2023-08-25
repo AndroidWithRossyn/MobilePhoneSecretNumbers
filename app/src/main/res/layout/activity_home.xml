@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/off_white"
+        android:fitsSystemWindows="true"
+        tools:context=".ui.activity.HomeActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/btn_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="12dp"
+                    android:src="@drawable/ic_menu" />
+
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/app_name"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="12dp"
+                    android:src="@drawable/icon_back"
+                    android:visibility="invisible" />
+
+            </LinearLayout>
+
+            <androidx.core.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:fillViewport="true"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:id="@+id/caller_id_ll"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/caller_id"
+                        android:layout_width="match_parent"
+                        android:layout_height="180dp"
+                        android:layout_marginEnd="-30dp"
+                        android:paddingHorizontal="12dp"
+                        android:layout_marginBottom="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/caller_id" />
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/large"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="8dp"
+                        android:layout_marginVertical="8dp"
+                        app:cardBackgroundColor="@color/white"
+                        app:cardCornerRadius="16dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="190dp"
+                        android:gravity="center"
+                        android:paddingHorizontal="12dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/btn_mobile_codes"
+                            android:layout_width="143dp"
+                            android:layout_height="170dp"
+                            android:layout_margin="8dp"
+                            android:layout_marginBottom="20dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/rect_mobile_bgview"
+                            android:elevation="5dp"
+                            android:fontFamily="@font/poppins_medium"
+                            android:gravity="center"
+                            android:paddingTop="20dp"
+                            android:paddingBottom="20dp"
+                            android:maxLines="2"
+                            android:text="@string/mobile_codes"
+                            android:textColor="@color/gray"
+                            android:textSize="15sp"
+                            app:drawableTopCompat="@drawable/img_mobile" />
+
+                        <TextView
+                            android:id="@+id/btn_favourites"
+                            android:layout_width="143dp"
+                            android:layout_height="170dp"
+                            android:layout_margin="8dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/rect_mobile_bgview"
+                            android:elevation="5dp"
+                            android:fontFamily="@font/poppins_medium"
+                            android:gravity="center"
+                            android:padding="20dp"
+                            android:singleLine="true"
+                            android:text="@string/favourites"
+                            android:textColor="@color/gray"
+                            android:textSize="15sp"
+                            app:drawableTopCompat="@drawable/img_fav" />
+
+                    </LinearLayout>
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="190dp"
+                        android:gravity="center"
+                        android:paddingHorizontal="12dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/btn_mobile_tips"
+                            android:layout_width="143dp"
+                            android:layout_height="170dp"
+                            android:layout_margin="8dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/rect_mobile_bgview"
+                            android:elevation="5dp"
+                            android:fontFamily="@font/poppins_medium"
+                            android:gravity="center"
+                            android:paddingHorizontal="20dp"
+                            android:paddingVertical="28dp"
+                            android:text="@string/mobile_tips"
+                            android:textColor="@color/gray"
+                            android:textSize="15sp"
+                            app:drawableTopCompat="@drawable/img_tips" />
+
+                        <TextView
+                            android:id="@+id/btn_mobile_tricks"
+                            android:layout_width="143dp"
+                            android:layout_height="170dp"
+                            android:layout_margin="8dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/rect_mobile_bgview"
+                            android:elevation="5dp"
+                            android:fontFamily="@font/poppins_medium"
+                            android:gravity="center"
+                            android:padding="20dp"
+                            android:text="@string/mobile_tricks"
+                            android:textColor="@color/gray"
+                            android:textSize="15sp"
+                            app:drawableTopCompat="@drawable/img_tricks" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </androidx.core.widget.NestedScrollView>
+
+
+        </LinearLayout>
+
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/nav_view"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start">
+
+            <androidx.fragment.app.FragmentContainerView
+                android:id="@+id/nav_container"
+                android:name="com.phonesecretcode.mobilelocator.coder.ui.fragments.NavFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:layout="@layout/fragment_nav" />
+        </com.google.android.material.navigation.NavigationView>
+
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+</layout>

@@ -1,0 +1,36 @@
+[versions]
+androidGradlePlugin = "8.0.0"
+jetbrainsBom = "1.8.21"
+playServicesAds = "22.1.0"
+lottieVersion = "6.0.0"
+roomVersion = "2.5.2"
+glideVersion = "4.15.1"
+shimmerVersion = "0.5.0"
+gsonVersion = "2.10.1"
+volleyVersion = "1.2.1"
+lifecycleProcess = "2.6.1"
+appcompatVersion = "1.6.1"
+materialVersion = "1.9.0"
+constraintlayoutVersion = "2.1.4"
+dhavalVersion = "2.1"
+
+[libraries]
+lottie = { group = "com.airbnb.android", name = "lottie", version.ref = "lottieVersion" }
+room-runtime = { group = "androidx.room", name = "room-runtime", version.ref = "roomVersion" }
+room-compiler = { group = "androidx.room", name = "room-compiler", version.ref = "roomVersion" }
+glide-main = { group = "com.github.bumptech.glide", name = "glide", version.ref = "glideVersion" }
+glide-compiler = { group = "com.github.bumptech.glide", name = "compiler", version.ref = "glideVersion" }
+shimmer = { group = "com.facebook.shimmer", name = "shimmer", version.ref = "shimmerVersion" }
+gson = { group = "com.google.code.gson", name = "gson", version.ref = "gsonVersion" }
+volley = { group = "com.android.volley", name = "volley", version.ref = "volleyVersion" }
+jetbrains-bom = { group = "org.jetbrains.kotlin", name = "kotlin-bom", version.ref = "jetbrainsBom" }
+playservices-ads = { group = "com.google.android.gms", name = "play-services-ads", version.ref = "playServicesAds" }
+lifecycle-process = { group = "androidx.lifecycle", name = "lifecycle-process", version.ref = "lifecycleProcess" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompatVersion" }
+material = { group = "com.google.android.material", name = "material", version.ref = "materialVersion" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayoutVersion" }
+dhaval-imagepicker = { group = "com.github.dhaval2404", name = "imagepicker", version.ref = "dhavalVersion" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "androidGradlePlugin" }
+android-library = { id = "com.android.library", version.ref = "androidGradlePlugin" }

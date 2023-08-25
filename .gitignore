@@ -1,0 +1,7 @@
+# Project exclude paths
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/library/build/
+/library/build/intermediates/javac/debug/classes/
+/mobilemodule/build/
+/mobilemodule/build/intermediates/javac/debug/classes/
